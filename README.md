@@ -1,1 +1,1 @@
-# Este é um arquivo para testar conflito
+# Este é um projeto do curso Git e Github
